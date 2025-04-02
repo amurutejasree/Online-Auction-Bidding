@@ -25,7 +25,7 @@ Change the Product Description,Name and Category
 # Delete Product
 Can Delete the Product
 
-# add date and time slot for auctioning
+# Add date and time slot for auctioning
 # Add Date and Time
 Each product is made available a time slot during which the product will be available for Bidding
 current bidding
@@ -37,7 +37,7 @@ By clicking the Enter Bidding room Button user gets access to the Bidding page
 Enter the price at which u want to bid the Product, Other Users also Bid at the same moment
 # Declare The Winner
 After the provided time frame gets over the bidding stops and the winner of the Bid is Declared
-# view the bid
+# View the bid
 Participated in Bids
 can view the history in which all products the user participated and place his bids for what amount
 # View Product results
