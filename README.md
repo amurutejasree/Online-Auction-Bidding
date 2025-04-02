@@ -5,13 +5,20 @@ BidCenter is a web-based auction platform where users can list, bid on, and purc
 
 # Features
 
-User Authentication: Secure login and registration for buyers and sellers.
-Auction Listings: Sellers can create, edit, and delete auction listings.
-Bidding System: Real-time bidding with competitive pricing.
-Notifications: Alerts for outbids, auction wins, and new listings.
-Admin Dashboard: Manage users, auctions, and transactions.
-Payment Integration: Secure transactions using payment gateways.
-Search and Filters: Advanced search options to find auctions easily.
+# User Authentication:
+Secure login and registration for buyers and sellers.
+# Auction Listings:
+Sellers can create, edit, and delete auction listings.
+# Bidding System:
+Real-time bidding with competitive pricing.
+# Notifications:
+Alerts for outbids, auction wins, and new listings.
+# Admin Dashboard:
+Manage users, auctions, and transactions.
+# Payment Integration:
+Secure transactions using payment gateways.
+# Search and Filters:
+Advanced search options to find auctions easily.
 
 # Usage
 create, edit and delete Product
