@@ -1,9 +1,9 @@
-### BidCenter: Online Auction Bazaar
-## Overview
+# BidCenter: Online Auction Bazaar
+# Overview
 
 BidCenter is a web-based auction platform where users can list, bid on, and purchase items in a secure and interactive environment. This project is built using Spring Boot for the backend and React.js for the frontend, ensuring a scalable and responsive user experience.
 
-## Features
+# Features
 
 User Authentication: Secure login and registration for buyers and sellers.
 Auction Listings: Sellers can create, edit, and delete auction listings.
@@ -13,10 +13,10 @@ Admin Dashboard: Manage users, auctions, and transactions.
 Payment Integration: Secure transactions using payment gateways.
 Search and Filters: Advanced search options to find auctions easily.
 
-## Usage
+# Usage
 create, edit and delete Product
 
-## Products
+# Products
 See the list of Products, to see more about each Product click on details.
 # Add Product
 Add a new Product to be listed for auctioning, with the Description and Images of the Product
@@ -25,7 +25,7 @@ Change the Product Description,Name and Category
 # Delete Product
 Can Delete the Product
 
-## add date and time slot for auctioning
+# add date and time slot for auctioning
 # Add Date and Time
 Each product is made available a time slot during which the product will be available for Bidding
 current bidding
