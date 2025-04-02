@@ -1,4 +1,4 @@
-BidCenter: Online Auction Bazaar
+##BidCenter: Online Auction Bazaar
 
 Overview
 
